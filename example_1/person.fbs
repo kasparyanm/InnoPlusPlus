@@ -1,0 +1,10 @@
+
+namespace InnoPlusPlus.example_1;
+
+table Person {
+  name:string;
+  age:short;
+  surname:string;
+}
+
+root_type Person;
